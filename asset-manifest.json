@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/projet/static/css/main.f5e52f6a.css",
-    "main.js": "/projet/static/js/main.faf4c9d1.js",
-    "static/js/787.d5555ea4.chunk.js": "/projet/static/js/787.d5555ea4.chunk.js",
-    "static/media/CV-Jean DELAGOUTTE.pdf": "/projet/static/media/CV-Jean DELAGOUTTE.20d0850bf91ce76e6cf7.pdf",
-    "static/media/Linearicons-Free.svg?w118d": "/projet/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
-    "static/media/main_photo.jpg": "/projet/static/media/main_photo.e94c011c040a73b3bd61.jpg",
-    "static/media/Linearicons-Free.eot": "/projet/static/media/Linearicons-Free.eb992e965197b4672140.eot",
-    "static/media/Linearicons-Free.woff?w118d": "/projet/static/media/Linearicons-Free.a78a26fb0b18bc4cde28.woff",
-    "static/media/Linearicons-Free.ttf?w118d": "/projet/static/media/Linearicons-Free.5cbe0a85581dc42087ac.ttf",
-    "static/media/main_bg.png": "/projet/static/media/main_bg.51073848f581bbef96f1.png",
-    "static/media/Linearicons-Free.woff2?w118d": "/projet/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
-    "static/media/linecons.eot": "/projet/static/media/linecons.029e7672914ffd40b604.eot",
-    "index.html": "/projet/index.html",
-    "main.f5e52f6a.css.map": "/projet/static/css/main.f5e52f6a.css.map",
-    "main.faf4c9d1.js.map": "/projet/static/js/main.faf4c9d1.js.map",
-    "787.d5555ea4.chunk.js.map": "/projet/static/js/787.d5555ea4.chunk.js.map"
+    "main.css": "/static/css/main.89fd7b1a.css",
+    "main.js": "/static/js/main.412d25be.js",
+    "static/js/787.d5555ea4.chunk.js": "/static/js/787.d5555ea4.chunk.js",
+    "static/media/CV-Jean DELAGOUTTE.pdf": "/static/media/CV-Jean DELAGOUTTE.20d0850bf91ce76e6cf7.pdf",
+    "static/media/Linearicons-Free.svg?w118d": "/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
+    "static/media/main_photo.jpg": "/static/media/main_photo.e94c011c040a73b3bd61.jpg",
+    "static/media/Linearicons-Free.eot": "/static/media/Linearicons-Free.eb992e965197b4672140.eot",
+    "static/media/Linearicons-Free.woff?w118d": "/static/media/Linearicons-Free.a78a26fb0b18bc4cde28.woff",
+    "static/media/Linearicons-Free.ttf?w118d": "/static/media/Linearicons-Free.5cbe0a85581dc42087ac.ttf",
+    "static/media/main_bg.png": "/static/media/main_bg.51073848f581bbef96f1.png",
+    "static/media/Linearicons-Free.woff2?w118d": "/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
+    "static/media/linecons.eot": "/static/media/linecons.029e7672914ffd40b604.eot",
+    "index.html": "/index.html",
+    "main.89fd7b1a.css.map": "/static/css/main.89fd7b1a.css.map",
+    "main.412d25be.js.map": "/static/js/main.412d25be.js.map",
+    "787.d5555ea4.chunk.js.map": "/static/js/787.d5555ea4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5e52f6a.css",
-    "static/js/main.faf4c9d1.js"
+    "static/css/main.89fd7b1a.css",
+    "static/js/main.412d25be.js"
   ]
 }
