@@ -75,7 +75,8 @@
     // Contact form validator
     $(function () {
 
-        $('#contact_form').validator();        
+        $('#contact_form').validator();
+
     });
     // /Contact form validator
 
@@ -230,6 +231,11 @@
             $('.site-nav').addClass('animate');
             $('.site-nav').toggleClass('mobile-menu-hide');
         });
+        
+        $('.site-main-menu .menu-item').on("click", function () {
+            $('.site-nav').addClass('animate');
+            $('.site-nav').toggleClass('mobile-menu-hide');
+        }); 
 
         // Text rotation
         $('.text-rotation').owlCarousel({
