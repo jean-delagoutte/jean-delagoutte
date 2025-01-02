@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.89fd7b1a.css",
-    "main.js": "/static/js/main.e58842a4.js",
-    "static/js/787.d5555ea4.chunk.js": "/static/js/787.d5555ea4.chunk.js",
+    "main.css": "/static/css/main.6fe73e83.css",
+    "main.js": "/static/js/main.ec93b1c0.js",
+    "static/js/453.88a82fc7.chunk.js": "/static/js/453.88a82fc7.chunk.js",
     "static/media/CV-Jean DELAGOUTTE.pdf": "/static/media/CV-Jean DELAGOUTTE.625d38d09cad98939037.pdf",
     "static/media/Linearicons-Free.svg?w118d": "/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
     "static/media/main_photo.jpg": "/static/media/main_photo.e94c011c040a73b3bd61.jpg",
@@ -13,12 +13,12 @@
     "static/media/Linearicons-Free.woff2?w118d": "/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
     "static/media/linecons.eot": "/static/media/linecons.029e7672914ffd40b604.eot",
     "index.html": "/index.html",
-    "main.89fd7b1a.css.map": "/static/css/main.89fd7b1a.css.map",
-    "main.e58842a4.js.map": "/static/js/main.e58842a4.js.map",
-    "787.d5555ea4.chunk.js.map": "/static/js/787.d5555ea4.chunk.js.map"
+    "main.6fe73e83.css.map": "/static/css/main.6fe73e83.css.map",
+    "main.ec93b1c0.js.map": "/static/js/main.ec93b1c0.js.map",
+    "453.88a82fc7.chunk.js.map": "/static/js/453.88a82fc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89fd7b1a.css",
-    "static/js/main.e58842a4.js"
+    "static/css/main.6fe73e83.css",
+    "static/js/main.ec93b1c0.js"
   ]
 }
