@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  This site uses HashRouter (see README's "Stack" section for why: it
-  avoids needing a server-side rewrite rule on GitHub Pages). Hash
-  fragments are never sent to the server, so search engines rely on
-  executing the page's JavaScript to see what each of these renders
-  rather than getting distinct server responses per URL. Listing them
-  here still helps crawlers discover the routes; it's just a weaker
-  signal than real server-rendered paths would be.
--->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jean.delagoutte.fr/</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/resume</loc>
+    <loc>https://jean.delagoutte.fr/resume</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/contact</loc>
+    <loc>https://jean.delagoutte.fr/contact</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/projets</loc>
+    <loc>https://jean.delagoutte.fr/projets</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/projets/bonoride</loc>
+    <loc>https://jean.delagoutte.fr/projets/bonoride</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/projets/domotique-homey</loc>
+    <loc>https://jean.delagoutte.fr/projets/domotique-homey</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/projets/mask</loc>
+    <loc>https://jean.delagoutte.fr/projets/mask</loc>
   </url>
   <url>
-    <loc>https://jean.delagoutte.fr/#/projets/traininpocket</loc>
+    <loc>https://jean.delagoutte.fr/projets/traininpocket</loc>
   </url>
 </urlset>

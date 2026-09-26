@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // https://github.com/rafgraph/spa-github-pages
+      //
+      // Decodes the path 404.html encoded into the query string (see its
+      // own comment) back into a real path via history.replaceState, so
+      // React Router (BrowserRouter) sees the correct URL once it mounts.
+      // Must run before anything reads location.pathname.
+      (function(l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function(s) {
+            return s.replace(/~and~/g, '&');
+          }).join('?');
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location));
+    </script>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="/media/favicon.ico" />
@@ -33,7 +52,7 @@
     <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css">
 
     <script src="/js/modernizr.custom.js"></script>
-    <script type="module" crossorigin src="/assets/index-mAOw_3zr.js"></script>
+    <script type="module" crossorigin src="/assets/index-DqrSkKAR.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DUGE-hgw.css">
       <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Jean Delagoutte","jobTitle":"Conseiller technique","url":"https://jean.delagoutte.fr","email":"mailto:dev.jean@delagoutte.fr","address":{"@type":"PostalAddress","addressLocality":"Benesse-Maremne","addressRegion":"Nouvelle-Aquitaine","addressCountry":"FR"},"sameAs":["https://fr.linkedin.com/in/jean-delagoutte","https://github.com/jean-delagoutte","https://www.facebook.com/people/Jean-Delagoutte/pfbid061eHSs2wc5X8YR5WJcMafodqTS5L6aU4YbyPD4V7ik4AfaxiE7KXDMUR3v2roNb8l/","https://tryhackme.com/r/p/krapocho"]}</script>
   </head>
